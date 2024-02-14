@@ -42,6 +42,7 @@ namespace BankAccount.NUnitTest
 
             account.transferToOtherAccount(otherAccount, 500);
             Assert.AreEqual(500, account.Balance);
+
             Assert.AreEqual(500, otherAccount.Balance);
         }
     }
