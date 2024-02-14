@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountNUnitTest", "BankAccountNUnitTest\BankAccountNUnitTest.csproj", "{51F1601E-FA89-45CC-967C-48B4C72ABE82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5F66BB0-F6E1-4027-8C6B-7CCF794B3D4F}.Release|x86.Build.0 = Release|Any CPU
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Debug|x86.ActiveCfg = Debug|x86
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Debug|x86.Build.0 = Debug|x86
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Release|x86.ActiveCfg = Release|x86
+		{51F1601E-FA89-45CC-967C-48B4C72ABE82}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513242C2-E83A-4A87-B971-E6A5F8FFCF3E}
+	EndGlobalSection
+EndGlobal
